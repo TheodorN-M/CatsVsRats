@@ -24,7 +24,7 @@ Når man starter spillet blir man møtt av en forside. Her kan man enten åpne h
 
 
 ### Last ned spillet her
-[Download your JAR file](https://git.app.uib.no/Theodor.Nissen-Meyer/skadedyrkontrolloererne_inc/-/raw/main/skadedyrkontrollorene-inc.jar)
+[Download your JAR file](https://drive.google.com/file/d/1ho357NHOq8r9taI_JZjNUNLgtulkwpOt/view?usp=sharing)
 
 ### Kjøring
 * Kompileres med `mvn package`.
